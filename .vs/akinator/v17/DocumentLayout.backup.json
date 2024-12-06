@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos\\Documents\\kinator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8929C7DA-96B8-4982-A9AE-A9CA153ABA3E}|akinator\\akinator.vcxproj|C:\\Users\\Alumnos\\Documents\\kinator\\akinator\\Akinator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8929C7DA-96B8-4982-A9AE-A9CA153ABA3E}|akinator\\akinator.vcxproj|solutionrelative:akinator\\Akinator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Akinator.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\kinator\\akinator\\Akinator.cpp",
+              "RelativeDocumentMoniker": "akinator\\Akinator.cpp",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\kinator\\akinator\\Akinator.cpp",
+              "RelativeToolTip": "akinator\\Akinator.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T22:58:29.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
