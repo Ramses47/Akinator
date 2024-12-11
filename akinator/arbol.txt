@@ -1,0 +1,67 @@
+Es un animal?
+Es el mejor amigo del reino animal ?
+Capibara
+#
+#
+Es una persona ?
+Fue o es poresidente ?
+Amlo
+#
+#
+chayanne
+#
+#
+Tiene alas ?
+Aletea muy rapido ?
+Colibrie
+#
+#
+Vuela muy rapido ?
+Aguila
+#
+#
+Pollo
+#
+#
+un topo 
+#
+#
+Es un mueble ?
+Tiene respaldo ?
+Tiene relleno
+Sillon
+#
+#
+Mesa
+#
+#
+Suelen poner comida encima ?
+Mesa
+#
+#
+Tiene culchon ?
+Cama
+#
+#
+Silla
+#
+#
+Es comida ?
+Tiene tortilla
+Taco
+#
+#
+Es botana ?
+Papas fritas
+#
+#
+Pizza 
+#
+#
+Es de cristal ?
+un vaso
+#
+#
+papa 
+#
+#
